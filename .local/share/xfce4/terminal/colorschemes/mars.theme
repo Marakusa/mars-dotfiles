@@ -1,0 +1,12 @@
+; Created by Markus
+; https://github.com/Marakusa
+[Scheme]
+Name=Mars
+ColorForeground=#DEDDDA
+ColorBackground=#181B1E
+ColorCursor=#D8434E
+ColorBold=#93a1a1
+ColorBoldUseDefault=FALSE
+ColorPalette=rgb(24,27,30);rgb(224,44,44);rgb(226,82,82);rgb(218,166,35);rgb(207,120,50);rgb(216,67,78);rgb(213,105,31);rgb(214,125,125);rgb(35,40,44);rgb(224,44,44);rgb(226,82,82);rgb(218,166,35);rgb(207,120,50);rgb(216,67,78);rgb(213,105,31);rgb(214,125,125)
+TabActivityColor=#D8434E
+ColorCursorUseDefault=FALSE

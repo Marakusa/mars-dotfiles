@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg14"
+   sodipodi:docname="gnome-package.svg"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     id="namedview16"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="54.5625"
+     inkscape:cx="8"
+     inkscape:cy="7.9908362"
+     inkscape:window-width="1920"
+     inkscape:window-height="1048"
+     inkscape:window-x="1360"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg14" />
+  <rect
+     style="fill:#e4e4e4"
+     width="16"
+     height="16"
+     x="0"
+     y="0"
+     rx="1.2"
+     ry="1.2"
+     id="rect2" />
+  <rect
+     style="fill:#e25252;fill-opacity:1"
+     width="5"
+     height="5"
+     x="2"
+     y="2"
+     rx=".833"
+     ry=".833"
+     id="rect4" />
+  <rect
+     style="fill:#e25252;fill-opacity:1"
+     width="5"
+     height="5"
+     x="9"
+     y="2"
+     rx=".833"
+     ry=".833"
+     id="rect6" />
+  <rect
+     style="fill:#e25252;fill-opacity:1"
+     width="5"
+     height="5"
+     x="2"
+     y="9"
+     rx=".833"
+     ry=".833"
+     id="rect8" />
+  <path
+     style="fill:#e25252;fill-opacity:1"
+     d="M 11.5,9 C 11.777,9 12,9.227551 12,9.510205 V 10.989795 C 12,11.272449 11.777,11.5 11.5,11.5 11.223,11.5 11,11.272449 11,10.989795 V 9.510205 C 11,9.227551 11.223,9 11.5,9 Z"
+     id="path10" />
+  <path
+     style="fill:#e25252;fill-opacity:1"
+     d="M 9.357053,11 A 0.35719347,0.3750467 0 0 0 9.1045313,11.640152 L 11.247479,13.890206 A 0.35719347,0.3750467 0 0 0 11.752522,13.890206 L 13.895468,11.640152 A 0.35719347,0.3750467 0 0 0 13.642946,11 Z"
+     id="path12" />
+</svg>

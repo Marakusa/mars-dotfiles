@@ -1,0 +1,40 @@
+{
+	"name": "celestial",
+	"displayName": "Celestial",
+	"description": "VS Code theme for all the people who love to code in deep dark spaces.",
+	"version": "0.3.0",
+	"publisher": "apvarun",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/apvarun/celestial-theme"
+	},
+	"bugs": {
+		"url": "https://github.com/apvarun/celestial-theme/issues"
+	},
+	"icon": "Celestial.png",
+	"galleryBanner": {
+		"color": "#0b0c0f",
+		"theme": "dark"
+	},
+	"engines": {
+		"vscode": "^1.37.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Celestial",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Celestial-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "a5b95000-8469-4373-a39c-a818bb97ef0e",
+		"publisherId": "50ba713c-b810-4673-a5b5-a3bf54b8b65b",
+		"publisherDisplayName": "Varun A P",
+		"installedTimestamp": 1631650355061
+	}
+}

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1"
+   id="svg16"
+   sodipodi:docname="org.xfce.xfmp.svg"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs20" />
+  <sodipodi:namedview
+     id="namedview18"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="54.5625"
+     inkscape:cx="8"
+     inkscape:cy="7.9908362"
+     inkscape:window-width="1920"
+     inkscape:window-height="1048"
+     inkscape:window-x="1360"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg16" />
+  <rect
+     style="fill:#e25252;fill-opacity:1"
+     width="11"
+     height="9"
+     x="5"
+     y="0"
+     rx="1.179"
+     ry="1.227"
+     id="rect2" />
+  <circle
+     style="fill:#4f4f4f"
+     cx="5.5"
+     cy="8.5"
+     r="5.5"
+     id="circle4" />
+  <circle
+     style="fill:#3f3f3f"
+     cx="5.5"
+     cy="8.5"
+     r="4.5"
+     id="circle6" />
+  <circle
+     style="opacity:0.2"
+     cx="5.5"
+     cy="8.5"
+     r="1.5"
+     id="circle8" />
+  <rect
+     style="fill:#3f3f3f"
+     width="2"
+     height="2"
+     x="9"
+     y="13.6"
+     rx=".286"
+     ry=".4"
+     id="rect10" />
+  <rect
+     style="fill:#dc2b2b;fill-opacity:1"
+     width="8"
+     height="6"
+     x="6"
+     y="9"
+     rx=".857"
+     ry=".818"
+     id="rect12" />
+  <rect
+     style="fill:#4f4f4f"
+     width="4"
+     height=".7"
+     x="8"
+     y="15.3"
+     rx=".3"
+     ry=".3"
+     id="rect14" />
+</svg>

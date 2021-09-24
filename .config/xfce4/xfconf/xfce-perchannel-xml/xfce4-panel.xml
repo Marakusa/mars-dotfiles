@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="xfce4-panel" version="1.0">
+  <property name="panels" type="uint" value="1">
+    <property name="panel-0" type="empty">
+      <property name="position" type="string" value="p=9;x=2315;y=16"/>
+      <property name="length" type="uint" value="80"/>
+      <property name="position-locked" type="bool" value="true"/>
+      <property name="plugin-ids" type="array">
+        <value type="int" value="4"/>
+        <value type="int" value="8"/>
+        <value type="int" value="17"/>
+        <value type="int" value="12"/>
+        <value type="int" value="11"/>
+        <value type="int" value="10"/>
+        <value type="int" value="6"/>
+        <value type="int" value="9"/>
+        <value type="int" value="7"/>
+        <value type="int" value="14"/>
+        <value type="int" value="5"/>
+        <value type="int" value="1"/>
+        <value type="int" value="15"/>
+        <value type="int" value="2"/>
+        <value type="int" value="16"/>
+        <value type="int" value="3"/>
+      </property>
+      <property name="role" type="string" value="xfce4-panel-12965750720"/>
+      <property name="length-adjust" type="bool" value="true"/>
+      <property name="background-style" type="uint" value="1"/>
+      <property name="size" type="uint" value="32"/>
+      <property name="mode" type="uint" value="0"/>
+      <property name="autohide-behavior" type="uint" value="1"/>
+      <property name="disable-struts" type="bool" value="false"/>
+      <property name="icon-size" type="uint" value="24"/>
+      <property name="background-rgba" type="array">
+        <value type="double" value="0.111156"/>
+        <value type="double" value="0.119660"/>
+        <value type="double" value="0.136667"/>
+        <value type="double" value="0.295302"/>
+      </property>
+      <property name="leave-opacity" type="uint" value="100"/>
+      <property name="enter-opacity" type="uint" value="100"/>
+    </property>
+    <property name="dark-mode" type="bool" value="true"/>
+  </property>
+  <property name="plugins" type="empty">
+    <property name="plugin-2" type="string" value="actions">
+      <property name="appearance" type="uint" value="1"/>
+      <property name="invert-orientation" type="bool" value="false"/>
+      <property name="items" type="array">
+        <value type="string" value="-logout-dialog"/>
+        <value type="string" value="-switch-user"/>
+        <value type="string" value="+logout"/>
+        <value type="string" value="+separator"/>
+        <value type="string" value="+lock-screen"/>
+        <value type="string" value="-hibernate"/>
+        <value type="string" value="-suspend"/>
+        <value type="string" value="+restart"/>
+        <value type="string" value="+shutdown"/>
+        <value type="string" value="-hybrid-sleep"/>
+      </property>
+      <property name="button-title" type="uint" value="3"/>
+      <property name="custom-title" type="string" value="Markus"/>
+    </property>
+    <property name="plugin-6" type="string" value="systray">
+      <property name="names-visible" type="array">
+        <value type="string" value="pnmixer"/>
+        <value type="string" value="manjaro-settings-manager-daemon"/>
+        <value type="string" value="networkmanager applet"/>
+        <value type="string" value="orage"/>
+        <value type="string" value="pamac-tray"/>
+        <value type="string" value="blueman-applet"/>
+        <value type="string" value="clipman"/>
+        <value type="string" value="xfce4-power-manager"/>
+        <value type="string" value="xnoise"/>
+      </property>
+      <property name="show-frame" type="bool" value="false"/>
+      <property name="known-legacy-items" type="array">
+        <value type="string" value="flameshot"/>
+        <value type="string" value="thunar"/>
+        <value type="string" value="pamac-tray"/>
+        <value type="string" value="networkmanager applet"/>
+        <value type="string" value="clipman"/>
+      </property>
+      <property name="known-items" type="array">
+        <value type="string" value="flameshot"/>
+        <value type="string" value="discord1"/>
+        <value type="string" value="steam"/>
+        <value type="string" value="MSM Notifier"/>
+      </property>
+      <property name="icon-size" type="int" value="0"/>
+      <property name="square-icons" type="bool" value="true"/>
+      <property name="single-row" type="bool" value="false"/>
+      <property name="symbolic-icons" type="bool" value="false"/>
+      <property name="menu-is-primary" type="bool" value="false"/>
+    </property>
+    <property name="plugin-9" type="string" value="pulseaudio">
+      <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
+      <property name="mpris-players" type="string" value="chromium.instance1113;chromium.instance1128;chromium.instance1184;chromium.instance1202;chromium.instance1310;chromium.instance19567;chromium.instance19936;firefox.instance10230;firefox.instance10550;firefox.instance11998;firefox.instance1239;firefox.instance1299;firefox.instance13460;firefox.instance13873;firefox.instance1780;firefox.instance18320;firefox.instance1924;firefox.instance1964;firefox.instance1972;firefox.instance1982;firefox.instance1984;firefox.instance19870;firefox.instance1992;firefox.instance2027;firefox.instance2046;firefox.instance20696;firefox.instance2112;firefox.instance2124;firefox.instance2133;firefox.instance2149;firefox.instance2172;firefox.instance2214;firefox.instance2271;firefox.instance2287;firefox.instance23413;firefox.instance2630;firefox.instance2658;firefox.instance2732;firefox.instance2749;firefox.instance2845;firefox.instance2907;firefox.instance30190;firefox.instance32035;firefox.instance3223;firefox.instance3816;firefox.instance3883;firefox.instance6285;firefox.instance7768;firefox.instance8202;firefox.instance9019;spotify"/>
+    </property>
+    <property name="plugin-8" type="string" value="whiskermenu"/>
+    <property name="plugin-5" type="string" value="clock">
+      <property name="timezone" type="string" value="Europe/Helsinki"/>
+    </property>
+    <property name="clipman" type="empty">
+      <property name="tweaks" type="empty">
+        <property name="paste-on-activate" type="uint" value="1"/>
+      </property>
+    </property>
+    <property name="plugin-1" type="string" value="separator">
+      <property name="expand" type="bool" value="false"/>
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-3" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-4" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-10" type="string" value="weather">
+      <property name="location" type="empty">
+        <property name="name" type="string" value="Jyväskylä, Finland"/>
+        <property name="latitude" type="string" value="62.272500"/>
+        <property name="longitude" type="string" value="25.814900"/>
+      </property>
+      <property name="msl" type="int" value="0"/>
+      <property name="timezone" type="string" value="Europe/Helsinki"/>
+      <property name="offset" type="string" value="+03:00"/>
+      <property name="cache-max-age" type="int" value="172800"/>
+      <property name="power-saving" type="bool" value="true"/>
+      <property name="units" type="empty">
+        <property name="temperature" type="int" value="0"/>
+        <property name="pressure" type="int" value="0"/>
+        <property name="windspeed" type="int" value="0"/>
+        <property name="precipitation" type="int" value="0"/>
+        <property name="altitude" type="int" value="0"/>
+        <property name="apparent-temperature" type="int" value="0"/>
+      </property>
+      <property name="round" type="bool" value="true"/>
+      <property name="single-row" type="bool" value="true"/>
+      <property name="tooltip-style" type="int" value="0"/>
+      <property name="forecast" type="empty">
+        <property name="layout" type="int" value="0"/>
+        <property name="days" type="int" value="5"/>
+      </property>
+      <property name="theme-dir" type="string" value="/usr/share/xfce4/weather/icons/WSky-Light"/>
+      <property name="scrollbox" type="empty">
+        <property name="show" type="bool" value="true"/>
+        <property name="animate" type="bool" value="true"/>
+        <property name="lines" type="int" value="1"/>
+        <property name="color" type="string" value="rgba(0,0,0,0)"/>
+        <property name="use-color" type="bool" value="false"/>
+      </property>
+      <property name="labels" type="empty">
+        <property name="label0" type="int" value="3"/>
+      </property>
+    </property>
+    <property name="plugin-11" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+      <property name="expand" type="bool" value="true"/>
+    </property>
+    <property name="plugin-12" type="string" value="separator">
+      <property name="expand" type="bool" value="false"/>
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-14" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-15" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-16" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-17" type="string" value="appmenu">
+      <property name="plugins" type="empty">
+        <property name="plugin-17" type="empty">
+          <property name="compact-mode" type="bool" value="false"/>
+          <property name="bold-application-name" type="bool" value="true"/>
+          <property name="expand" type="bool" value="false"/>
+        </property>
+      </property>
+    </property>
+    <property name="plugin-7" type="string" value="systemload">
+      <property name="network" type="empty">
+        <property name="enabled" type="bool" value="false"/>
+      </property>
+      <property name="swap" type="empty">
+        <property name="enabled" type="bool" value="false"/>
+      </property>
+      <property name="cpu" type="empty">
+        <property name="color" type="array">
+          <value type="double" value="0.964706"/>
+          <value type="double" value="0.380392"/>
+          <value type="double" value="0.317647"/>
+          <value type="double" value="1.000000"/>
+        </property>
+        <property name="label" type="string" value=""/>
+      </property>
+      <property name="memory" type="empty">
+        <property name="color" type="array">
+          <value type="double" value="1.000000"/>
+          <value type="double" value="0.745098"/>
+          <value type="double" value="0.435294"/>
+          <value type="double" value="1.000000"/>
+        </property>
+        <property name="label" type="string" value=""/>
+      </property>
+      <property name="uptime" type="empty">
+        <property name="enabled" type="bool" value="false"/>
+      </property>
+    </property>
+  </property>
+  <property name="configver" type="int" value="2"/>
+</channel>
